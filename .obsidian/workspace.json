@@ -117,7 +117,7 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Welcome"
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -200,7 +199,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "dce4d7ae4ac6adb8",
+  "active": "295ed9ed39b3256e",
   "lastOpenFiles": [
     "Welcome.md"
   ]
