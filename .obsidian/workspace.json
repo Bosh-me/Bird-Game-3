@@ -13,30 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "About.md",
+                "file": "Inspiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "About"
+              "title": "Inspiration"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "877180a50f807434",
+        "type": "tabs",
+        "children": [
           {
-            "id": "fd657ede72255749",
+            "id": "fe40a57a8b3f6ad3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "GameModes/Territory.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pigeon"
+              "title": "Territory"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +98,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347.5
+    "width": 300
   },
   "right": {
     "id": "33bbba1ed60fb1bb",
@@ -109,7 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "GameModes/Territory.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pigeon"
+              "title": "Backlinks for Territory"
             }
           },
           {
@@ -128,12 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Welcome.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pigeon"
+              "title": "Outgoing links from Welcome"
             }
           },
           {
@@ -171,62 +176,58 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Welcome.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pigeon"
-            }
-          },
-          {
-            "id": "3d192f09d60723b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "title": "Outline of Welcome"
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "bases:Create new base": false
     }
   },
-  "active": "fd657ede72255749",
+  "active": "fe40a57a8b3f6ad3",
   "lastOpenFiles": [
-    "Characters(birds)/Birds.md",
-    "images/Pasted image 20251129105219.png",
-    "About.md",
+    "GameModes/Territory.md",
+    "Bird Game 3.md",
     "Competition.md",
-    "Gameplay loop.md",
+    "Characters(birds)/Birds.md",
     "Inspiration.md",
-    "images/Pasted image 20251129131827.png",
-    "images",
-    "images/Pasted image 20251129131914.png",
-    "Game Bird 3/Bird Game 3.md",
     "Characters(birds)/Pigeon.md",
+    "images/Pasted image 20251129105219.png",
+    "images/Pasted image 20251129131827.png",
+    "images/Pasted image 20251129131914.png",
+    "Gameplay loop.md",
+    "About.md",
+    "images",
+    "Characters(birds)",
+    "Major Sources.md",
+    "Game Bird 3/Bird Game 3.md",
+    "Pasted image 20251129105219.png",
+    "Game Bird 3/Birds/Birds.md",
     "Game Bird 3",
+    "Game Bird 3/Birds/Pigeon.md",
     "Pasted image 20251129103629.png",
     "Hsjsksk/Ndmdss.md",
     "GameModes",
-    "Characters(birds)",
+    "Game Bird 3/Birds",
     "Welcome.md",
     "Untitled.base",
     "Untitled 1.base",
