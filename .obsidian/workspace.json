@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Birds/Peigon.md",
+                "file": "Major Sources.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Peigon"
+              "title": "Major Sources"
             }
           }
         ]
@@ -110,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Major Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Major Sources"
             }
           },
           {
@@ -198,9 +199,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "fe40a57a8b3f6ad3",
+  "active": "57ae95595082ae03",
   "lastOpenFiles": [
-    "Birds/Peigon.md",
+    "Birds/Pigeon.md",
+    "Major Sources.md",
+    "Pasted image 20251129103629.png",
     "Birds/Birds.md",
     "Hsjsksk/Ndmdss.md",
     "GameModes",

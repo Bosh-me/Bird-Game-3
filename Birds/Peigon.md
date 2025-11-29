@@ -1,2 +1,0 @@
-Standard [[Birds]]
-medium traits
