@@ -110,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Major Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Major Sources"
+              "title": "Backlinks"
             }
           },
           {
@@ -199,15 +198,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "57ae95595082ae03",
+  "active": "fe40a57a8b3f6ad3",
   "lastOpenFiles": [
-    "Birds/Pigeon.md",
+    "Game Bird 3/Game Bird 3.md",
     "Major Sources.md",
+    "Game Bird 3",
+    "Game Bird 3/Birds/Pigeon.md",
     "Pasted image 20251129103629.png",
-    "Birds/Birds.md",
+    "Game Bird 3/Birds/Birds.md",
     "Hsjsksk/Ndmdss.md",
     "GameModes",
-    "Birds",
+    "Game Bird 3/Birds",
     "Welcome.md",
     "Untitled.base",
     "Untitled 1.base",
