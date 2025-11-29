@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Inspiration.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pigeon"
+              "title": "Inspiration"
             }
           }
         ],
@@ -109,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Inspiration.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pigeon"
+              "title": "Backlinks for Inspiration"
             }
           },
           {
@@ -128,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Inspiration.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pigeon"
+              "title": "Outgoing links from Inspiration"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Characters(birds)/Pigeon.md",
+                "file": "Inspiration.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Pigeon"
+              "title": "Outline of Inspiration"
             }
           },
           {
@@ -211,17 +211,17 @@
   },
   "active": "fd657ede72255749",
   "lastOpenFiles": [
-    "Characters(birds)/Birds.md",
-    "images/Pasted image 20251129105219.png",
-    "About.md",
-    "Competition.md",
     "Gameplay loop.md",
+    "Competition.md",
+    "About.md",
+    "images/Pasted image 20251129105219.png",
+    "Characters(birds)/Pigeon.md",
+    "Characters(birds)/Birds.md",
     "Inspiration.md",
     "images/Pasted image 20251129131827.png",
     "images",
     "images/Pasted image 20251129131914.png",
     "Game Bird 3/Bird Game 3.md",
-    "Characters(birds)/Pigeon.md",
     "Game Bird 3",
     "Pasted image 20251129103629.png",
     "Hsjsksk/Ndmdss.md",
