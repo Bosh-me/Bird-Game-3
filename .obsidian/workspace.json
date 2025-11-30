@@ -1,63 +1,14 @@
 {
   "main": {
-    "id": "0b10c44dee1741d3",
+    "id": "e1c992fcbb9c04b0",
     "type": "split",
     "children": [
       {
-        "id": "02a79b0de2207096",
+        "id": "891238d3c3db7824",
         "type": "tabs",
         "children": [
           {
-            "id": "57ae95595082ae03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-<<<<<<< Updated upstream
-                "file": "Inspiration.md",
-=======
-                "file": "About.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "About"
-            }
-          },
-          {
-            "id": "fd657ede72255749",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GameModes/Territory.md",
->>>>>>> Stashed changes
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-<<<<<<< Updated upstream
-              "title": "Inspiration"
-            }
-          }
-        ]
-      },
-      {
-        "id": "877180a50f807434",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "fe40a57a8b3f6ad3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "fb33bea89543bd99",
+            "id": "5df5c53b08e0446b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -69,43 +20,22 @@
               "icon": "lucide-file",
               "title": "Territory"
             }
-          },
-          {
-            "id": "63c1f28f1dd4dd2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Characters(birds)/Birds.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Birds"
-            }
           }
         ]
-=======
-              "title": "Territory"
-            }
-          }
-        ],
-        "currentTab": 1
->>>>>>> Stashed changes
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "765c43fd1460176d",
+    "id": "5af1736bfa206a24",
     "type": "split",
     "children": [
       {
-        "id": "07b9cf6f1e15b8b8",
+        "id": "f259be752dada129",
         "type": "tabs",
         "children": [
           {
-            "id": "1f8997a3e104b99b",
+            "id": "45c24b3d6838ee4f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -118,7 +48,7 @@
             }
           },
           {
-            "id": "d3e14f76a8b00244",
+            "id": "ac007f603ce5601a",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -135,7 +65,7 @@
             }
           },
           {
-            "id": "1beb448937fdb241",
+            "id": "930cf13fc8c0f9ba",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -151,63 +81,48 @@
     "width": 300
   },
   "right": {
-    "id": "33bbba1ed60fb1bb",
+    "id": "f6774a1665bc0eb1",
     "type": "split",
     "children": [
       {
-        "id": "f31272dc6f90389d",
+        "id": "61006a05ad7e23ac",
         "type": "tabs",
         "children": [
           {
-            "id": "2c9c8d07bb8b0ed9",
+            "id": "f8fe5547abaa37dd",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-<<<<<<< Updated upstream
-=======
                 "file": "GameModes/Territory.md",
->>>>>>> Stashed changes
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-<<<<<<< Updated upstream
-              "title": "Backlinks"
-=======
               "title": "Backlinks for Territory"
->>>>>>> Stashed changes
             }
           },
           {
-            "id": "540f0b109f87c27f",
+            "id": "f666307fced3bb57",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Welcome.md",
-=======
                 "file": "GameModes/Territory.md",
->>>>>>> Stashed changes
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-<<<<<<< Updated upstream
-              "title": "Outgoing links from Welcome"
-=======
               "title": "Outgoing links from Territory"
->>>>>>> Stashed changes
             }
           },
           {
-            "id": "b4e145169ef745f2",
+            "id": "50733f579fc73c41",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -222,7 +137,7 @@
             }
           },
           {
-            "id": "e8f9432351e1a251",
+            "id": "4c94980debfd1e0b",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -236,105 +151,43 @@
             }
           },
           {
-            "id": "f70c08a7164a0c72",
+            "id": "3cde83e8902e4cf9",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-<<<<<<< Updated upstream
-                "file": "Welcome.md",
-=======
                 "file": "GameModes/Territory.md",
->>>>>>> Stashed changes
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-<<<<<<< Updated upstream
-              "title": "Outline of Welcome"
-=======
               "title": "Outline of Territory"
-            }
-          },
-          {
-            "id": "3d192f09d60723b9",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
->>>>>>> Stashed changes
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-<<<<<<< Updated upstream
-  "active": "fe40a57a8b3f6ad3",
+  "active": "5df5c53b08e0446b",
   "lastOpenFiles": [
-    "Characters(birds)/Birds.md",
-    "GameModes/Territory.md",
-    "GameModes/Game Modes.md",
-    "conflict-files-obsidian-git.md",
-    "Bird Game 3.md",
-    "Competition.md",
-    "Inspiration.md",
     "Characters(birds)/Pigeon.md",
-    "images/Pasted image 20251129105219.png",
-    "images/Pasted image 20251129131827.png",
-    "images/Pasted image 20251129131914.png",
-    "Gameplay loop.md",
-    "About.md",
-    "images",
-    "Characters(birds)",
-    "Major Sources.md",
-=======
-  "active": "fd657ede72255749",
-  "lastOpenFiles": [
     "Inspiration.md",
-    "Bird Game 3.md",
-    "Competition.md",
-    "About.md",
-    "Gameplay loop.md",
-    "Characters(birds)/Pigeon.md",
-    "Characters(birds)/Birds.md",
-    "GameModes/Territory.md",
-    "images/Pasted image 20251129131914.png",
-    "images/Pasted image 20251129105219.png",
-    "conflict-files-obsidian-git.md",
-    "GameModes",
-    "images/Pasted image 20251129131827.png",
-    "images",
->>>>>>> Stashed changes
-    "Game Bird 3/Bird Game 3.md",
-    "Pasted image 20251129105219.png",
-    "Game Bird 3/Birds/Birds.md",
-    "Game Bird 3",
-    "Game Bird 3/Birds/Pigeon.md",
-    "Pasted image 20251129103629.png",
-    "Hsjsksk/Ndmdss.md",
-    "GameModes",
-    "Game Bird 3/Birds",
-    "Welcome.md",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Hsjsksk"
+    "Characters(birds)/Birds.md"
   ]
 }
