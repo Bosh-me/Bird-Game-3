@@ -1,3 +1,4 @@
+Next [[Game Mode]]
 u can choose any bird breed u like
 u and 9 other players (total of 10 players)
 this game mode has couple of sections 
@@ -26,3 +27,6 @@ you will be that bird parent no matter what different breed of birds u have stol
 after leveling up by consuming eggs or completing different objectives you will gain eggs u can plant in an existing nest or make a new one if the nests u have are full
 # Leveling 
 the more u level the more powerful u become u can choose different powerups like speed or damage or eggs 
+there are many different ways to level up active and passive ways 
+active ones u can consume eggs build nests hatch eggs feed your birds u can also level up by killing other birds or by securing biggest territory
+passive ways are just commands you give to your grown birds and they will do it automatically they can build nests hatch more eggs expand territory look for food or attack other birds
