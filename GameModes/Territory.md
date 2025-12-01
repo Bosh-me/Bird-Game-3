@@ -7,9 +7,5 @@ First : u start as a bird with 3 eggs and bad nest u start either exploring or l
 birds hatch and u can command them to do certain tasks 
 Scout ,Attack ,Scavenge ,Create nests and increase territory range
 
-<<<<<<< Updated upstream
 # Late stage 
 dominate other birds and win
-=======
-
->>>>>>> Stashed changes
